@@ -1,0 +1,125 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+    font-weight: 1200px;
+    color: rgba(49, 47, 47, 0.582);
+    text-align: center;
+}
+.btn{
+    border: 0px;
+    margin-top: 80px;
+    margin-left: 400px;
+    padding: 20px 40px;
+    border-radius: 20px;
+    /* background-color: orangered; */
+    background-image: linear-gradient(tomato, salmon);
+    color: whitesmoke;
+    font-size: 20px;
+}
+.contact-button{
+    text-decoration: none;
+    background-image: linear-gradient(violet, blueviolet);
+    padding: 10px 20px;
+    margin-top: 100px;
+    margin-left: 360px;
+    border-radius: 10px;
+}
+#colored-text{
+    color:  rgb(250, 116, 6); 
+}
+#FOOD-colored{
+    color: goldenrod;
+}
+#footer-section h1{
+    color: whitesmoke;
+    margin-top: 50px;
+}
+#top-section{
+    display: flex;
+}
+#mid-section{
+    display: flex;
+    height: 800px;
+    background-image: url(images/Frame\ 58\ again.jpg);
+}
+#third-section{
+    margin-top: 200px;
+}
+.third-section-div{
+    text-align: center;
+    color: gray;
+}
+#fourth-section{
+    margin-top: 100px;
+    margin-left: 320px;
+    display: flex;
+}
+.fourth-section-container{
+    width: 350px;
+    height: 400px;
+    /* border: 2px solid; */
+    border-radius: 15px;
+    margin: 20px 20px 20px 20px;
+    text-align: center;
+    background-color: rgb(200, 242, 246);
+    box-shadow: 10px 20px 20px gray;
+}
+.fourth-section-container img{
+    height: 200px;
+    width: 300px;
+    margin-top: 20px;
+    border-radius: 15px;
+}
+#last-section{
+    height: 180px;
+    width: 1000px;
+    /* border: 2px solid; */
+    border-radius: 15px;
+    margin-top: 100px;
+    margin-left: 400px;
+    display: flex;
+    background-color: whitesmoke;
+    box-shadow: 10px 10px 10px slategrey;
+
+}
+.last-div{
+    margin-left: 140px;
+}
+#footer-section{
+    background-color: rgb(0, 0, 0);
+    height: 200px;
+}
+#footer-section p{
+    color: whitesmoke;
+    margin-left: 760px;
+}
+#extra-section{
+    display: flex;
+}
+#extra-section img{
+    margin-left: 50px;
+    height: 600px;
+}
+/* #top-section-texts{
+    margin-top: 100px;
+} */
+.half-width{
+    width: 50%;
+}
+.half-width h3 {
+    text-align: center;
+    color: grey;
+}
+.half-width h2{
+    font-size: 40px;
+    color: grey;
+    margin-top: 100px;
+    margin-left: 80px;
+    text-align: center;
+}
+#mid-section-div{
+    margin-right: 120px;
+}
